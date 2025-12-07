@@ -1,0 +1,17 @@
+# Vivado build artifacts
+*.dcp
+*.xo
+*.bin
+*.vhdl
+*.v
+*.log
+*.Xil
+
+# IP cache
+**/.ipcache/
+
+# Build outputs
+hardware/kernel/build/
+hardware/host/build/
+hardware/host/hw
+hardware/kernel/_x/
